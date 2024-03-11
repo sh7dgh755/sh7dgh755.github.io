@@ -1,0 +1,8 @@
+{
+  "name": "Student Portal",
+  "short_name": "Student Portal",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "Student Portal"
+}
